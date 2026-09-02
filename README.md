@@ -22,7 +22,7 @@
 ```bash
 Name        : Muhammad Hamizan Bin Borhan
 Role        : DevOps Engineer
-Location    : Selangor, Malaysia 🇲🇾
+Location    : Puncak Alam , Selangor , Malaysia
 Company     : Ops.Nexus Studio
 Education   : Diploma in Networking
 Focus       : CI/CD · Infrastructure Automation · Container Orchestration
@@ -96,6 +96,7 @@ Status  : ✅ Active
 | Credential | Issuer | Status |
 |---|---|---|
 | 🎓 Diploma in Networking | ILP | ✅ Completed |
+| 🛣️ ITIL V4 & ITIL v5 | PeopleCert | ✅ Completed |
 | 🛣️ Azure DevOps Engineer Expert (AZ-400) | Microsoft Azure | ✅ Completed |
 | 🛣️ AWS Certified DevOps Engineer – Professional | AWS | ✅ Completed |
 | 🛣️ EX380 / Red Hat Certified Specialist in OpenShift Automation and Integration| OpenShift | ✅ Completed |

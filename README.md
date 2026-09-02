@@ -20,13 +20,13 @@
 ## `$ whoami`
 
 ```bash
-Name        : Muhammad Hamizan (Ijan)
-Role        : IT Support Engineer → DevOps Engineer
+Name        : Muhammad Hamizan Bin Borhan
+Role        : DevOps Engineer
 Location    : Selangor, Malaysia 🇲🇾
-Company     : Ops.Nexus Data
+Company     : Ops.Nexus Studio
 Education   : Diploma in Networking
 Focus       : CI/CD · Infrastructure Automation · Container Orchestration
-Status      : [ ACTIVELY TRANSITIONING TO DEVOPS ]
+Status      : [ FULL-TIME DEVOPS ENGINEER · PART-TIME DEVOPS ]
 ```
 
 > *"Infrastructure shouldn't be something you touch — it should be something you define."*
@@ -56,7 +56,7 @@ Status      : [ ACTIVELY TRANSITIONING TO DEVOPS ]
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Projects
 
 ### 📊 DevOps Reporting Dashboard
 > Full-featured web dashboard with authentication, CRUD operations, and role-based access control. Built for real-time infrastructure metrics visibility.
@@ -69,23 +69,23 @@ Status  : ✅ Active
 
 ---
 
-### 📦 Inventory Management System
-> Enterprise-grade IT asset tracking system. Designed for IT teams managing hardware and software inventory at scale.
+### 🚀 Application Operations — Boost & Atome
+> Responsible for application operations and DevOps support for Boost and Atome applications, including deployment, monitoring, troubleshooting, and environment management.
 
 ```
-Stack   : Full Stack Web Application
-Features: Asset tracking · REST API · Search & filter
+Stack   : DevOps · CI/CD · Application Support
+Focus   : Deployment · Monitoring · Troubleshooting · Infrastructure
 Status  : ✅ Active
 ```
 
 ---
 
-### 📈 Custom Trading Indicator (Pine Script)
-> Custom-built technical analysis indicator for TradingView. Generates automated signals based on configurable strategy parameters.
+### 📈 FSM TechStep
+> Developed FSM TechStep, a system designed to support field service management and streamline operational workflows..
 
 ```
-Stack   : Pine Script · TradingView
-Features: Custom signals · Multi-timeframe · Visual alerts
+Stack   : Full Stack Web Application
+Features: System Development · REST API · Database · Workflow Management
 Status  : ✅ Active
 ```
 
@@ -95,8 +95,11 @@ Status  : ✅ Active
 
 | Credential | Issuer | Status |
 |---|---|---|
-| 🎓 Diploma in Networking | — | ✅ Completed |
-| 🛣️ DevOps Implementation Roadmap | Self-directed | 🔄 In Progress |
+| 🎓 Diploma in Networking | ILP | ✅ Completed |
+| 🛣️ Azure DevOps Engineer Expert (AZ-400) | Microsoft Azure | ✅ Completed |
+| 🛣️ AWS Certified DevOps Engineer – Professional | AWS | ✅ Completed |
+| 🛣️ EX380 / Red Hat Certified Specialist in OpenShift Automation and Integration| OpenShift | ✅ Completed |
+
 
 ---
 
@@ -119,11 +122,11 @@ Terraform / Ansible  █████████████░░░░░░�
 [✅] Git & GitLab version control
 [✅] Docker containerization
 [✅] CI/CD pipeline design (GitLab CI)
-[🔄] Kubernetes orchestration
-[🔄] Terraform infrastructure as code
-[🔄] Prometheus + Grafana monitoring
-[⏳] Cloud platform (AWS/Azure)
-[⏳] Advanced K8s — Helm, Operators
+[✅] Kubernetes orchestration
+[✅] Terraform infrastructure as code
+[✅] Prometheus + Grafana monitoring
+[✅] Cloud platform (AWS/Azure)
+[✅] Advanced K8s — Helm, Operators
 ```
 
 ---
